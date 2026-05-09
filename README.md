@@ -215,7 +215,7 @@ Pull requests are always welcome! For major changes, please open an issue first 
 ## Authors
 
 Developed by:
-- **Sam Wilkie** - [LinkedIn](https://www.linkedin.com/in/samu-wilkie/)
+- **Sam Wilkie** - [LinkedIn](https://www.linkedin.com/in/samu-wilkie/) | [Website](https://sam.wilkiedevs.com)
 - **Juliana Urbano** - [LinkedIn](https://www.linkedin.com/in/ummel/)
 
 ---
